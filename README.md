@@ -69,3 +69,7 @@ task-workspace/
 
 The exact files can change by domain. The important rule is that the agent records enough context for another engineer to understand what was tried, what passed validation, and why the final candidate was selected.
 
+## License
+
+- Source code and repository configuration are licensed under Apache-2.0. See `LICENSE`.
+- Documentation and prompt content are licensed under CC BY-NC 4.0. See `LICENSE-CC-BY-NC-4.0`.
