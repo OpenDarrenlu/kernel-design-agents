@@ -71,5 +71,4 @@ The exact files can change by domain. The important rule is that the agent recor
 
 ## License
 
-- Source code and repository configuration are licensed under Apache-2.0. See `LICENSE`.
-- Documentation and prompt content are licensed under CC BY-NC 4.0. See `LICENSE-CC-BY-NC-4.0`.
+All source code, repository content, documentation, and prompt content in this repository are licensed under CC BY-NC 4.0. See `LICENSE`.
